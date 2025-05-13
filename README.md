@@ -4,7 +4,7 @@
 
  <p align="center"> <span style="color:#e34f26;">
   Apaixonada por tecnologia, movida por desafios e focada em transformar ideias em soluções reais.
-</p>
+ </span></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
