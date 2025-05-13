@@ -1,4 +1,4 @@
- ![logo FAT](Logo_fat.png)
+ ![titulo](Titulo.png)
 
  Bem-vindo ao repositório do Curso de "Fundação FAT " este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso. 
 
