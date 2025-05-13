@@ -1,4 +1,4 @@
- ![logo FAT](Logo_fat.png) # **TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS**
+ ![logo FAT](Logo_fat.png) 
 
  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
