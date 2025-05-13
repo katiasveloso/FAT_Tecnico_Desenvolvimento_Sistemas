@@ -1,6 +1,6 @@
  ![titulo](Titulo.png)
 
- Bem-vindo ao repositório do Curso de "Fundação FAT " este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso.<br> 
+ Bem-vindo ao repositório do Curso da "Fundação FAT " este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso.<br> 
 
  
 
@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+</p>
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?logo=amazonaws&logoColor=white" />
 </p>
 
 <p align="center"> 
