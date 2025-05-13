@@ -1,4 +1,6 @@
- ![logo FAT](Logo_fat.png) 
+ ![logo FAT](Logo_fat.png)
+
+ Bem-vindo ao repositório do Curso de "Fundação FAT " este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso. 
 
  <p align="center">
   Apaixonada por tecnologia, movida por desafios e focada em transformar ideias em soluções reais.
@@ -42,7 +44,7 @@ O profissional do curso Técnico em Desenvolvimento de Sistemas de Nível Médio
 
 ## 🛠️ Tecnologias Utilizadas
 
-Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+Este curso utilizou as seguintes tecnologias:
 
 - **[PHP](https://www.php.net/downloads.php)** 
 - **[xampp](https://www.apachefriends.org/pt_br/download.html)**
