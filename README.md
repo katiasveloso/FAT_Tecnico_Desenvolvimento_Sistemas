@@ -1,8 +1,8 @@
  ![titulo](Titulo.png)
 
- Bem-vindo ao repositório do Curso de "Fundação FAT " este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso. 
+ Bem-vindo ao repositório do Curso de "Fundação FAT " este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso.<br> 
 
- <p align="center" style=color:red> 
+ <p align="center"> 
   Apaixonada por tecnologia, movida por desafios e focada em transformar ideias em soluções reais.
 </p> 
 
