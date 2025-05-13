@@ -2,9 +2,9 @@
 
  Bem-vindo ao repositório do Curso de "Fundação FAT " este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso. 
 
-<span style="color: #e67e22;"> <p align="center"> 
+ <p align="center" style=color:red> 
   Apaixonada por tecnologia, movida por desafios e focada em transformar ideias em soluções reais.
-</p></span> 
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
