@@ -1,5 +1,9 @@
  ![logo FAT](Logo_fat.png) 
 
+ <p align="center">
+  Apaixonada por tecnologia, movida por desafios e focada em transformar ideias em soluções reais.
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
