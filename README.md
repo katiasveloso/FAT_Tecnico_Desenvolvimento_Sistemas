@@ -2,7 +2,7 @@
 
  Bem-vindo ao repositório do Curso de "Fundação FAT " este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso. 
 
- <p align="center">
+ <p align="center"> <span style="color:#e34f26;">
   Apaixonada por tecnologia, movida por desafios e focada em transformar ideias em soluções reais.
 </p>
 
