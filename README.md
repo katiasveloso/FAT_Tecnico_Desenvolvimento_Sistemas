@@ -3,8 +3,8 @@
  Bem-vindo ao repositório do Curso de "Fundação FAT " este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso. 
 
  <p align="center"> 
-  Apaixonada por tecnologia, movida por desafios e focada em transformar ideias em soluções reais.
- </p>
+  <span style="color: #e67e22;">Apaixonada por tecnologia, movida por desafios e focada em transformar ideias em soluções reais.
+</span> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
@@ -32,7 +32,7 @@ O profissional do curso Técnico em Desenvolvimento de Sistemas de Nível Médio
 
 ---
 
-## 🎯 Este curso possui o objetivo de:
+## 🎯 Objetivo do Curso
 
 - 🔥Profissionalizante: Programação Web, Banco de Dados, Programação Avançada, Prática Integradora de Transações.
 - ⚡ Objetivos: desenvolver sistemas com uso de bancos de dados para web. Utilizar ferramentas de auxílio no desenvolvimento das aplicações. Desenvolver e realizar a manutenção sistemas que alimentam web sites.
