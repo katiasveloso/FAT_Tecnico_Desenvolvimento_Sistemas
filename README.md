@@ -1,5 +1,5 @@
- 🌟 ![logo FAT](Logo_fat.png)
-# **TÉCNICO DESENVOLVIMENTO DE SISTEMAS**
+ ![logo FAT](Logo_fat.png)
+#  🌟 **TÉCNICO DESENVOLVIMENTO DE SISTEMAS**
 
  
 
