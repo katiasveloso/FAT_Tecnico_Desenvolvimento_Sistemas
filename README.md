@@ -11,11 +11,11 @@
 ---
 ## 📚Estrutura do Curso
 
-1. [Computação em Nuvem](#-sobre-o-projeto)
-2. [Programação avançada](./docs/README.md)
-3. [Programação Web](./src/README.md)
-4. [Banco de dados](./tests/README.md)
-5. [Como Contribuir](./docs/contribuicao.md)
+1. [Computação em Nuvem](/Computação%20em%20Nuvem/)
+2. [Programação avançada](/Programação%20avançada/)
+3. [Programação Web](/Programaçao%20web/)
+4. [Banco de dados](/Banco%20de%20dados/)
+5. [Análise de Requisitos](/Análise%20de%20Requisitos/)
 
 ---
 
