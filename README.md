@@ -1,5 +1,5 @@
- 🌟 # ![logo FAT](/logoFAT_Escola_Tecnica.png)
-**TÉCNICO DESENVOLVIMENTO DE SISTEMAS**
+ 🌟 ![logo FAT](/logoFAT_Escola_Tecnica.png)
+# **TÉCNICO DESENVOLVIMENTO DE SISTEMAS**
 
  
 
