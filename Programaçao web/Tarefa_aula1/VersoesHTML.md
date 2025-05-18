@@ -65,3 +65,20 @@
 - 🔒 Tags obrigatoriamente bem fechadas.
 - 🗂️ Atributos entre aspas e marcação bem formada.
 - 🔁 Maior consistência com regras do XML.
+
+**⚠️ Limitações**:
+- ❗ Mais suscetível a erros de renderização.
+- 🌐 Pouco suportado por navegadores da época.
+
+---
+
+## 🚧 Limitações Comuns Antes do HTML5
+- ❌ Falta de elementos **semânticos** (`<section>`, `<article>`, `<nav>`).
+- 🔇 Sem suporte nativo a **áudio**, **vídeo**, **canvas** e **SVG**.
+- 🧱 Layouts baseados em **tabelas e hacks de CSS**.
+- 🧩 Mistura de estrutura e estilo no HTML.
+- 📦 Uso de **plugins** externos (Flash, Java Applets, etc).
+
+---
+
+> 💡 **Nota**: O HTML5 surge como solução para todos esses problemas, modernizando a web com elementos semânticos, APIs ricas e suporte nativo a multimídia.
