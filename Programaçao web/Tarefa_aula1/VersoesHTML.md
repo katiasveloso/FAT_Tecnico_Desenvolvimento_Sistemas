@@ -1,85 +1,67 @@
 
-# Histórico das Versões do HTML (Antes do HTML5)
+# 📜 Histórico das Versões do HTML (Antes do HTML5)
 
-## HTML 1.0 (1993)
-**Criado por**: Tim Berners-Lee  
-**Finalidade**: Definir uma linguagem básica para documentos na Web.
+## 🧱 HTML 1.0 (1993)
+**👨‍💻 Criado por**: Tim Berners-Lee  
+**🎯 Finalidade**: Definir uma linguagem básica para documentos na Web.
 
-**Características**:
-- Suporte a parágrafos, títulos, listas, links e imagens.
+**✅ Características**:
+- 📄 Suporte a parágrafos, títulos, listas, links e imagens.
 
-**Limitações**:
-- Sem suporte para formulários, tabelas, scripts ou mídia.
-- Layout extremamente limitado.
-
----
-
-## HTML 2.0 (1995)
-**Padronizado por**: IETF
-
-**Características**:
-- Introdução de formulários (`<form>`, `<input>`, `<textarea>`).
-- Melhor suporte para listas e tabelas simples.
-
-**Limitações**:
-- Sem suporte a scripts, estilos ou layout avançado.
+**⚠️ Limitações**:
+- 🚫 Sem suporte para formulários, tabelas, scripts ou mídia.
+- 🧩 Layout extremamente limitado.
 
 ---
 
-## HTML 3.2 (1997)
-**Padronizado por**: W3C
+## 🧱 HTML 2.0 (1995)
+**📜 Padronizado por**: IETF
 
-**Características**:
-- Suporte a tabelas mais complexas e scripts (JavaScript).
-- Introdução de estilos embutidos via `<style>`.
-- Elementos como `<font>`, `<center>`, `<script>`.
+**✅ Características**:
+- 📝 Suporte a formulários (`<form>`, `<input>`, `<textarea>`).
+- 📋 Melhor estruturação com listas e tabelas simples.
 
-**Limitações**:
-- Mistura conteúdo e apresentação.
-- Layout ainda dependente de tabelas.
+**⚠️ Limitações**:
+- ❌ Sem suporte a scripts, estilos ou layout avançado.
 
 ---
 
-## HTML 4.01 (1999)
-**Versões**:
-- **Strict**: Sem elementos de apresentação (uso recomendado).
-- **Transitional**: Compatível com elementos de apresentação antigos.
-- **Frameset**: Para páginas com uso de frames.
+## 🧱 HTML 3.2 (1997)
+**📜 Padronizado por**: W3C
 
-**Características**:
-- Separação entre HTML, CSS e JavaScript.
-- Melhor suporte para formulários.
-- Validação de código mais rígida.
+**✅ Características**:
+- 🧠 Introdução de JavaScript (`<script>`).
+- 🧩 Estilos embutidos com `<style>` e elementos como `<font>` e `<center>`.
+- 📊 Suporte a tabelas mais complexas.
 
-**Limitações**:
-- Sem suporte nativo a áudio/vídeo.
-- Layouts exigiam uso de tabelas e hacks com CSS.
+**⚠️ Limitações**:
+- 🎨 Mistura de conteúdo e apresentação.
+- 🏗️ Layouts ainda dependentes de tabelas.
 
 ---
 
-## XHTML 1.0 (2000)
-**Baseado em**: XML  
-**Objetivo**: Tornar o HTML mais rigoroso.
+## 🧱 HTML 4.01 (1999)
+**🔀 Versões**:
+- 🔵 **Strict**: Sem elementos de apresentação.
+- 🟡 **Transitional**: Compatível com elementos antigos.
+- 🟠 **Frameset**: Para páginas com frames.
 
-**Características**:
-- Tags sempre fechadas corretamente.
-- Atributos obrigatoriamente entre aspas.
-- Estrutura mais estrita, baseada em XML.
+**✅ Características**:
+- 🧹 Separação entre HTML (conteúdo), CSS (estilo) e JS (comportamento).
+- 📬 Suporte avançado para formulários.
+- 🛠️ Código mais estruturado e validável.
 
-**Limitações**:
-- Menos tolerante a erros de sintaxe.
-- Adoção limitada pelos navegadores.
-
----
-
-## Limitações Gerais Antes do HTML5
-- Falta de elementos semânticos como `<section>`, `<article>`, `<nav>`.
-- Sem suporte nativo para **áudio**, **vídeo** e **gráficos vetoriais**.
-- Layouts complexos exigiam **tabelas** e **hacks de CSS**.
-- Grande dependência de **plugins externos** como Flash.
-- Mistura entre **estrutura** e **apresentação** no HTML.
+**⚠️ Limitações**:
+- 🎧 Sem suporte nativo a áudio/vídeo.
+- 🧩 Layouts ainda complexos, usando tabelas e hacks.
 
 ---
 
-> ℹ️ O HTML5 foi lançado para resolver essas limitações, introduzindo elementos semânticos, suporte nativo a mídia e APIs modernas.
+## 🧱 XHTML 1.0 (2000)
+**🧬 Baseado em**: XML  
+**🎯 Objetivo**: Tornar o HTML mais rigoroso e padronizado.
 
+**✅ Características**:
+- 🔒 Tags obrigatoriamente bem fechadas.
+- 🗂️ Atributos entre aspas e marcação bem formada.
+- 🔁 Maior consistência com regras do XML.
