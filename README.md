@@ -1,8 +1,6 @@
- ![titulo](Titulo.png)
+# 👩‍💻 Curso Técnico em Desenvolvimento de Sistemas
 
- 🗃️ Bem-vindo ao repositório do Curso da "Fundação FAT " este repositório é dedicado ao armazenamento de atividades e projetos realizados durante o curso.<br> 
-
- 
+🗃️ Seja bem-vindo(a) ao meu repositório! Aqui compartilho minha jornada de aprendizado no **Curso Técnico em Desenvolvimento de Sistemas da Fundação FAT** , com projetos, exercícios e anotações sobre os principais conteúdos da formação. 🚀
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
@@ -13,11 +11,36 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-pink?logo=amazonaws&logoColor=white" />
 </p>
-
+---
 <p align="center"> 
   Apaixonada por tecnologia, movida por desafios e focada em transformar ideias em soluções reais.
 </p> 
 
+---
+
+## 📚 O que estou estudando
+
+- **💻 Programação Web**
+- **🗃️ Banco de Dados**
+- **⚙️ Programação Avançada**
+- **🌐 Aplicações Front-End**
+- **☁️ Computação em Nuvem**
+- **🔐 Segurança da Informação**
+- **📊 Análise de Dados**
+- **📝 Produção de Textos Técnicos**
+- **🧠 Lógica e Algoritmos**
+- **💼 Empreendedorismo & Inovação**
+
+---
+
+## 💡 Objetivo do repositório
+
+Este espaço serve para:
+- Documentar meus estudos e evolução 📈  
+- Compartilhar projetos práticos e desafios 💡  
+- Criar um portfólio público para futuras oportunidades 💼  
+
+---
 
 ---
 ## 📚Estrutura do Curso
