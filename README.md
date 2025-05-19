@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-pink?logo=amazonaws&logoColor=white" />
 </p>
----
+
 <p align="center"> 
   Apaixonada por tecnologia, movida por desafios e focada em transformar ideias em soluções reais.
 </p> 
