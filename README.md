@@ -1,5 +1,9 @@
 # 👩‍💻 Curso Técnico em Desenvolvimento de Sistemas
 
+![Curso](https://img.shields.io/badge/Curso_Técnico-em_Desenvolvimento_de_Sistemas-blue)
+
+
+
 
 🗃️ Seja bem-vindo(a) ao meu repositório! Aqui compartilho minha jornada de aprendizado no **Curso Técnico em Desenvolvimento de Sistemas da Fundação FAT** , com projetos, exercícios e anotações sobre os principais conteúdos da formação. 🚀
 
