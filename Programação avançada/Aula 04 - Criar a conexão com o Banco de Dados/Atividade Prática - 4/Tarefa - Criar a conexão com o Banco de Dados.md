@@ -1,5 +1,3 @@
-![Importante](https://img.shields.io/badge/Criar-a-conexão-com-o-Banco-de-Dados-vermelho-red)
-
 ## OBJETIVOS:
 
 Criar arquivo de variáveis globais
