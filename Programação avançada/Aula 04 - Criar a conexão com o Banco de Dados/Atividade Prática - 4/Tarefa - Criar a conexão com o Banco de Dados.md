@@ -4,9 +4,9 @@
 
 Criar arquivo de variáveis globais
 
-![Sucesso](https://img.shields.io/badge/Sucesso-ok-brightgreen) Materiais, Métodos e Ferramentas:
+![Sucesso](https://img.shields.io/badge/V-brightgreen) Materiais, Métodos e Ferramentas:
 
-![Sucesso](https://img.shields.io/badge/Sucesso-ok-brightgreen) Ambiente XAMPP e Sublime
+![Sucesso](https://img.shields.io/badge/V-brightgreen) Ambiente XAMPP e Sublime
 
 ## Atividade Prática - 4
 
