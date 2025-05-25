@@ -17,8 +17,10 @@ Um sistema necessita utilizar algumas variáveis globais que são variáveis que
 
 1 - Crie um arquivo chamado globals.php, com a variável dentro da sua pasta com o seu nome e sobrenome.
 
-```
+
 Código que deve ser copiado em globals.php
+
+```
 <?php
 
  
@@ -74,7 +76,7 @@ require_once(“globals.php”);
 ```
 
 
-4 – Crie a tag <h1>Filmes</h1> em index.php
+4 – Crie a ```tag <h1>Filmes</h1>``` em index.php
 
 
 ### Resolução:
