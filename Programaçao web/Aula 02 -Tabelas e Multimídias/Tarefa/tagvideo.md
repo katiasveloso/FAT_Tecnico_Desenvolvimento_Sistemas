@@ -5,7 +5,7 @@
 Um programador necessita inserir um vídeo do YouTube na página de uma empresa, apresente a tag para inserir e seus atributos.
 
 ---
-* Para inserir um vídeo do YouTube em uma página web, o programador pode usar a tag <iframe>, que permite incorporar conteúdo externo, como vídeos. Abaixo está um exemplo da tag com os principais atributos utilizados:
+Para inserir um vídeo do YouTube em uma página web, o programador pode usar a tag <iframe>, que permite incorporar conteúdo externo, como vídeos. Abaixo está um exemplo da tag com os principais atributos utilizados:
 
 * width e height: definem a largura e a altura do player de vídeo.
 
