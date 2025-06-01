@@ -88,3 +88,5 @@ Parágrafo
 Esperamos que estas informações e dicas tenham sido úteis para você e seu cachorro. Lembre-se, cuidar de um cachorro é uma responsabilidade importante, mas com amor e atenção, você pode desfrutar de uma vida feliz e saudável com o seu melhor amigo peludo.
 
 Crie um formulário com nome, email e uma mensagem sobre o assunto obrigatório.
+
+[Resultado](/Programaçao%20web/Aula%2004-%20Atividade%20prática%20HTML/Site_PET/index.html) 
