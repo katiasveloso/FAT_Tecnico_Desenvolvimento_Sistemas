@@ -85,9 +85,13 @@ Suporte nativo a variáveis (--nome) e cálculos (calc()).
 Compatibilidade mais consistente com navegadores modernos.
 
 📌 Resumo Comparativo
-Versão	Lançamento	Principais Recursos	Limitações Chave
-CSS1	1996	Estilo básico, texto e cores	Sem posicionamento ou seletores ricos
-CSS2	1998	Position, z-index, media types	Sem animações ou layouts flexíveis
-CSS2.1	2004	Correções e estabilidade	Atraso na evolução, sem interações
-CSS3	2011+	Flexbox, Grid, animações, temas	Algumas limitações em navegadores antigos
+
+| Versão   | Lançamento | Principais Recursos                        | Limitações Chave                            |
+|----------|------------|--------------------------------------------|---------------------------------------------|
+| CSS1     | 1996       | Estilo básico, texto e cores               | Sem posicionamento ou seletores ricos       |
+| CSS2     | 1998       | Position, z-index, media types             | Sem animações ou layouts flexíveis          |
+| CSS2.1   | 2004       | Correções e estabilidade                   | Atraso na evolução, sem interações          |
+| CSS3     | 2011+      | Flexbox, Grid, animações, temas            | Algumas limitações em navegadores antigos   |
+
+
 
