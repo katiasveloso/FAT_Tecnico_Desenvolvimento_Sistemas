@@ -5,7 +5,7 @@
 Atualmente é utilizado o CSS versão 3 CSS3, pesquise as versões anteriores e suas limitações.
 
 
-´´´
+
 🧾 CSS1 (Cascading Style Sheets Level 1) – 1996
 
 ✅ Características principais:
@@ -91,4 +91,3 @@ CSS2	1998	Position, z-index, media types	Sem animações ou layouts flexíveis
 CSS2.1	2004	Correções e estabilidade	Atraso na evolução, sem interações
 CSS3	2011+	Flexbox, Grid, animações, temas	Algumas limitações em navegadores antigos
 
-´´´
